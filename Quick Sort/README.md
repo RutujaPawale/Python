@@ -1,1 +1,1 @@
-
+Write a Python program to sort students’ percentage scores using the Quick Sort algorithm. Accept the percentage marks of 'n' students from the user, display the list before and after sorting, and print the top 5 scores. Also, explain how the Quick Sort works in your program and how slicing is used to get the top five marks.
